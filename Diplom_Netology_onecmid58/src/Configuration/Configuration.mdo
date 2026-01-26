@@ -635,6 +635,7 @@
   <roles>Role.ВКМ_РаботаСМассовымСозданиемАктов</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеКадровыхДокументов</roles>
   <roles>Role.ВКМ_ИспользованиеОтчетаВыработкаСпециалистов</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеДокументовОбслуживаниеКлиентаБезПроведения</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>
